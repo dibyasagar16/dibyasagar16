@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dibya Sagar Samal
 
-## 🚀 IT Graduate | 💻 Developer | 🌐 Web & DevOps Enthusiast
+#### 🚀 IT Graduate | 💻 Developer | 🌐 Web & DevOps Enthusiast
 
 ## 💻 Tech Stack
 
