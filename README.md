@@ -38,6 +38,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dibyasagar16&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+| DevOps | Cloud | Frontend | Backend | Tools |
+|--------|-------|----------|---------|-------|
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
+
+
 ### 🚀 Featured Projects
 - [Chrome Time Tracker](https://github.com/dibyasagar16/screentime-tracker)
 - [CI/CD Pipeline Project](https://github.com/dibyasagar16/youtube-clone)  
