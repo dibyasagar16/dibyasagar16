@@ -4,12 +4,15 @@
 ---
 
 
-## 💻 Tech Stack  
-## 🛠️ Skills & Tools  
+## 💻 Tech Stack
 
-| Linux | AWS | Git | Docker | Kubernetes | Jenkins | Ansible | Terraform | Grafana | ELK Stack |
-|-------|-----|-----|--------|------------|---------|---------|-----------|---------|-----------|
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) | ![ELK](https://img.shields.io/badge/ELK-005571?logo=elastic&logoColor=white) |
+## 💻 Tech Skills
+
+| Programming & Scripting | Frontend | DevOps & Cloud | Additional Techs |
+|--------------------------|----------|----------------|------------------|
+| ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20) <br> ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge&logoWidth=20) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&logoWidth=20) <br> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&logoWidth=20) | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&logoWidth=20) <br> ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![ELK](https://img.shields.io/badge/ELK%20Stack-005571?logo=elastic&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge&logoWidth=20) | ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![API](https://img.shields.io/badge/API%20Integration-FF6F00?logo=fastapi&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![Networking](https://img.shields.io/badge/Networking-0078D7?logo=cisco&logoColor=white&style=for-the-badge&logoWidth=20) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&logoWidth=20) |
+
+
 
 ---
 
