@@ -5,8 +5,7 @@
 
 
 ## 💻 Tech Stack
-
-## 💻 Tech Skills
+---
 
 | Programming & Scripting | Frontend | DevOps & Cloud | Additional Techs |
 |--------------------------|----------|----------------|------------------|
