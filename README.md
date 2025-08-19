@@ -2,14 +2,6 @@
 
 🚀 IT Graduate | 💻 Developer | 🌐 Web & DevOps Enthusiast  
 
----
-
-## 🛠️ Skills & Tools
-
----
-
-# 💻 Tech Stack
-
 ## 💻 Tech Stack  
 
 | 🖥️ Programming & Scripting | 🎨 Frontend | ⚙️ Backend | ☁️ Cloud & DevOps | 📊 Data Visualization |
