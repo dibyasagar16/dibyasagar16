@@ -30,6 +30,8 @@
 </p>
 
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyasagar16&repo=some-repo&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/dibyasagar16/some-repo)
+
 
 ### 📊 GitHub Stats
 ![Dibya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibyasagar16&show_icons=true&theme=transparent)
