@@ -36,6 +36,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dibyasagar16&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dibyasagar16&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### 🚀 Featured Projects
 - [Chrome Time Tracker](https://github.com/dibyasagar16/screentime-tracker)
 - [CI/CD Pipeline Project](https://github.com/dibyasagar16/youtube-clone)  
