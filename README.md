@@ -32,7 +32,7 @@
 
 
 ### 📊 GitHub Stats
-![Dibya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibyasagar16&show_icons=true&theme=radical)
+![Dibya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibyasagar16&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyasagar16&layout=compact&theme=radical)
 
