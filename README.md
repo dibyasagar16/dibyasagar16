@@ -38,7 +38,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dibyasagar16&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Dibya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dibyasagar16&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dibyasagar16&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyasagar16&layout=compact&theme=gruvbox)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dibyasagar16&theme=highcontrast)
+
 
 ### 🚀 Featured Projects
 - [Chrome Time Tracker](https://github.com/dibyasagar16/screentime-tracker)
