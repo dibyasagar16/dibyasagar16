@@ -38,6 +38,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dibyasagar16&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Dibya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dibyasagar16&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🚀 Featured Projects
 - [Chrome Time Tracker](https://github.com/dibyasagar16/screentime-tracker)
