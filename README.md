@@ -4,7 +4,7 @@
 
 ---
 
-## 🌐 Social
+## 🌐 Social Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibya-sagar-samal) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dibyasagar16@gmail.com) [![Website](https://img.shields.io/badge/Website-87CEEB?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=87CEEB)](https://dibyadev.xyz)
 
