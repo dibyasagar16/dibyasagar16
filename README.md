@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dibya Sagar Samal  
 
-### 🚀 DevOps Engineer | 💻 Frontend Developerr
+### 🚀 DevOps Engineer | 💻 Frontend Developer
 
 ---
 
