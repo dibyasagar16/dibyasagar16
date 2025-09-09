@@ -2,7 +2,7 @@
 
 ### 🚀 DevOps Engineer | 💻 Frontend Developer
 
-----
+---
 
 ## 🌐 Social Links:
 
